@@ -5,7 +5,7 @@
     "tmpFile": "monitor.tmp"
   },
   "coldAddress": {
-    "address": "0xf707924218091A7434f0e4a2d802a9f59236F454",
+    "address": "0xf528207e9Af7dC5D1209C735c871f5CBC225Dba5",
     "privateKey": "..."
   },
   "port": 3000,
@@ -16,14 +16,14 @@
   },
   "storageFile": "storage.json",
   "rates": [
-    {"from": "0xfab46e002bbf0b4509813474841e0716e6730136",
-      "to": "0xfab46e002bbf0b4509813474841e0716e6730136",
+    {"from": "0xf528207e9Af7dC5D1209C735c871f5CBC225Dba5",
+      "to": "0x9ae587C91F4c79ACC12BDEAc30b52BF7ADcFA619",
       "rate": 0.7237237},
-    {"from": "0xfab46e002bbf0b4509813474841e0716e6730136",
-      "to": "0x84dd11eb2a29615303d18149c0dbfa24167f8966",
+    {"from": "0xf528207e9Af7dC5D1209C735c871f5CBC225Dba5",
+      "to": "0x346Daa12A8D56bc26BDe78a30fCE94C916d194e3",
       "rate": 0.1454545},
     {"from": "0x0000000000000000000000000000000000000000",
-      "to": "0x84dd11eb2a29615303d18149c0dbfa24167f8966",
+      "to": "0x346Daa12A8D56bc26BDe78a30fCE94C916d194e3",
       "rate": 0.1454545}
   ]
 }
